@@ -1,0 +1,27 @@
+* Art Is Not an Object
+
+You can copy this book but you cannot read it twice.
+
+- A book containing 12 koans.
+- A book of 12 variations.
+- A book with 12 generated illustrations.
+
+* Steps Towards Completion
+
+** TODO Generated URL schema
+
+- Each generation of a book generates a URL scheme. If the schemes are generated sequentally, all varations of the book can be read.
+- Each generation has sequential page numbers. In other words, the URL is meaningful.
+    - Within the URL generation, it is clear what variations have been produced.
+    - Within the URL generation, it is clear what variations has yet to be produced.
+
+** TODO Strategies For Publishing
+
+- Generate epub export (different generation each time)
+
+** TODO [Pollen](https://docs.racket-lang.org/pollen/) Basics
+
+*** TODO Page 1 Generated Image, Page 2 Static Paragraph
+*** TODO Export to epub
+
+** TODO Basic Book in [Pollen](https://docs.racket-lang.org/pollen/)
