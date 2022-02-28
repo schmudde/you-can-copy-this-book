@@ -25,3 +25,13 @@ You can copy this book but you cannot read it twice.
 *** TODO Export to epub
 
 ** TODO Basic Book in [Pollen](https://docs.racket-lang.org/pollen/)
+
+* References
+
+Pollen's [[https://docs.racket-lang.org/pollen/pollen-command-syntax.html][lozenge]] on Linux: ~Ctrl+Shift+U~, then ~25CA~, then ~Enter~
+
+- Official documentation
+    - [[https://docs.racket-lang.org/pollen/second-tutorial.html][Markdown/Pollen Tutorial]]
+    - [[https://docs.racket-lang.org/pollen/fourth-tutorial.html][Multiple Output Targets]]
+- Butterick [[https://unitscale.com/mb/technique/dual-typed-untyped-library.html][source]]
+- [[https://joeldueck.com/doc/trunk/site/home.md][Joel Dueck]]'s [[https://docs.racket-lang.org/bookcover/index.html][PDF bookcover generator]] and [[https://www.youtube.com/playlist?list=PL3JXiVNOxZhYDFQFTPkU6A_6bL4TWTJ5R][videos]]
